@@ -6,3 +6,4 @@ C:\Users\Ahmet\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entit
 C:\Users\Ahmet\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Ahmet\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\Ahmet\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ahmet\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
